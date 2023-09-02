@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNobody1217
 - 👀 I’m interested in being a successful software engineer
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, Data Structures and Algorithm, and Object-Oriented Programming
+- 💞️ I’m looking to collaborate on learning and making projects
 - 📫 How to reach me ...
 
 <!---
